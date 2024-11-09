@@ -1,2 +1,3 @@
 # nvim-config
-My personal config
+**YOU NEED LUAROCKS**
+https://luarocks.org/#quick-start
